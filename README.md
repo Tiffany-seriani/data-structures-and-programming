@@ -1,8 +1,11 @@
-#DISTINCT ELEMENTS SUM ALGORITHMS
+DISTINCT ELEMENTS SUM ALGORITHMS
+
+
 This project contains an algorithm that finds the sum of all distinct elements from two sets represented as arrays.
 An element is considered distinct if it appearsin only one of the two sets when compared.
 
-#The sets are as follows;
+
+The sets are as follows;
 first set :(3,1,7,9)
 second set : (2,4,1,9)
 
@@ -10,7 +13,7 @@ The distinct elements are 7,2,4
 
 therefore the sum will total to 13
 
-author Tiffany Seriani
+Author, Tiffany Seriani
 
 Copyright <2026> <TIFFANY>
 
