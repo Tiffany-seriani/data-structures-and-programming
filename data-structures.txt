@@ -1,0 +1,32 @@
+first set =(3,1,7,9)
+second set =(2,4,1,9,3)
+
+
+sum = 0
+
+for each element in the first set;
+
+begin if
+
+if element is not in the second set;
+then sum = sum + element 
+
+end if 
+
+
+for each element in the second set
+
+begin if 
+
+if element is not in the first set;
+then sum = sum + element
+
+end if 
+
+distinct elements = (7,2,4)
+
+therefore sum = 7+2+4
+
+write sum
+
+sum = 13 
